@@ -24,7 +24,7 @@ export default function Blog(){
                         Message
                     </li>
                     <li>
-                        Help
+                        <Link to="/login">Help</Link>
                     </li>
                 </ul>
             </div>
