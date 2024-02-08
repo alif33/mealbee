@@ -3,11 +3,11 @@ import './App.css';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
+    <div className="max-w-xl mx-auto">
+      <header className="App-header px-5">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          hey ismail h alif hey ismail h alif hey ismail h alif hey ismail h alif hey ismail h alif hey ismail h alif hey ismail h alif hey ismail h alif hey ismail h alif
         </p>
         <a
           className="App-link"
