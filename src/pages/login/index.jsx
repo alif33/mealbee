@@ -11,7 +11,7 @@ export default function Login(){
     return(
         <div className="flex justify-center">
             <form className="w-10/12 mt-32" onSubmit={handleSubmit}>
-                <h1 className="text-center text-2xl font-semibold pt-10 pb-6">Login</h1>
+                <h1 className="text-center text-2xl font-semibold pt-10 pb-32">Login</h1>
                 <div className="flex flex-col pb-3">
                     <label>Email</label>
                     <input 
